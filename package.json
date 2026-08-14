@@ -1,8 +1,0 @@
-{
-  "name": "agent-os-v2-pelican",
-  "private": true,
-  "scripts": {
-    "build": "pelican content -o output -s pelicanconf.py"
-  },
-  "devDependencies": {}
-}
