@@ -11,3 +11,4 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 THEME = 'simple'
+# deploy trigger
