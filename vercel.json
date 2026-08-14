@@ -1,5 +1,0 @@
-{
-  "buildCommand": "pelican content -o output -s pelicanconf.py",
-  "outputDirectory": "output",
-  "framework": null
-}
